@@ -20,7 +20,8 @@ print '''
  %s+=================================+%s
  %s| %sTOOLS AKTIFIN PROFILE GUARD FB%s  |%s
  %s+=================================+%s
- 
+ %s| %sAuthor : Muhammad Rasul Anas%s    |%s
+ %s| %sFacebook : Muhammad Rasul Anas%s  |%s
  %s+=================================+%s
  %s| %sTOOLS RECODE | TOOLS HERLANGGA%s  |%s
  %s+=================================+%s
@@ -117,3 +118,19 @@ if __name__ == '__main__':
       main()
    except:
       exit()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#https://api.facebook.com/restserver.php?api_key=882a8490361da98702bf97a021ddc14d&email={email}&format=JSON&locale=vi_vn&method=auth.login&password={password}&return_ssl_resources=0&v=1.0&sig=ec93f2416ae0f69f9258adbab643d7eb
